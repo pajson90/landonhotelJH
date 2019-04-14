@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.linkedin.landonhotel"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "gateway",
+        "baseName": "landonhotel",
+        "packageName": "com.linkedin.landonhotel",
+        "packageFolder": "com/linkedin/landonhotel",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "gradle",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "OTcwNWYwOWQyZWQ4MmIyMmNmZmVlZWU1MWRhNDVjOGU3YjdkOTNmNDVhYmVkMGFiYjlmODc2ZTE4ODBiZTQyOTQ3YzQ2YzA0NjU5ZWYxNmNjMjI3MTBlNTQ3YjdiOWQyOTA2YTExOGQ0YTE1ZjEyMmRjOTg3YWRiMmE3YmE0ZDg=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
